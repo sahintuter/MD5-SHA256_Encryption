@@ -7,12 +7,13 @@ print("""
 | |_| |/ / (_| | |_| | | (_| |  __/ | | |_____| | | | (_| \__ \ | | |
  \__,_/___\__,_|\__, |_|\__, |\___|_| |_|     |_| |_|\__,_|___/_| |_|
                 |___/   |___/                                        
+
+                   Coded by: uzaylgen
+                   instagram.com/sahin_tuter                             
 """)
 print("""
-
 [+] MD5 şifreleme    (1)
 [+] SHA256 şifreleme (2)
-
 """)
 
 while True:
@@ -32,8 +33,4 @@ while True:
         break
     else:
         print("Yanlış seçim girdiniz.")
-
-
-
-
 
