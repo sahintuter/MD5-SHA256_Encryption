@@ -22,7 +22,7 @@ while True:
         print("MD5 şifrelemeyi seçtiniz\n")
         girdi = input("Şifrelenecek metin: ")
         sifre= hashlib.md5(girdi.encode('utf-8')).hexdigest()
-        print("\n Şifrelenmiş metin" + sifre)
+        print("\n Şifrelenmiş metin " + sifre)
         break
     elif secim==2:
         print("SHA256 şifrelemeyi seçtiniz\n")
